@@ -1,3 +1,4 @@
+import math
 #!python3
 """
 Debug this program so that it runs
